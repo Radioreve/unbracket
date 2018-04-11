@@ -1,0 +1,30 @@
+# Generated folders and files
+**/.bundle
+**/.eslintcache
+**/.log
+**/.sass-cache
+**/*.dot.png
+**/*.retry
+**/*.vagrant
+**/*.wsd.png
+**/coverage
+**/design.doc.json
+**/dist
+**/node_modules
+**/npm-debug.log*
+**/packages
+**/target
+
+# Backups
+backups
+
+# Git
+**/*.orig
+
+# IntelliJ IDEA / WebStorm / RubyMine / PhpStorm
+**/.idea
+**/*.iml
+**/.rakeTasks
+
+# MacOS
+**/.DS_Store
