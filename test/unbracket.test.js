@@ -8,7 +8,7 @@ describe("unbracket", () => {
       expect(unbracket.unbracketWithParenthesis(str)).to.deep.equal(["really", "crazy"]);
     });
     it("should unwrap items and not care about nested parenthesis", () => {
-      const str = "I don't (really, like (hell) really), care ! Sorry (or not)"
+      const str = "I don't (really, like (hell) really), care ! Sorry (or not)";
       expect(unbracket.unbracketWithParenthesis(str)).to.deep.equal(["really, like (hell", "or not"]);
     });
   });
