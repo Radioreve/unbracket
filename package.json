@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "author": "Léo Jacquemin @Radioreve <ljayame@gmail.com> (https://ljaya.me)",
   "license": "MIT",
+  "keywords": ["parenthesis, brackets, curly, curly-braces", "extract", "pluck", "regexp", "regex"],
   "repository": {
     "type": "git",
     "url": "https://github.com/radioreve/unbracker.git"
