@@ -2,6 +2,7 @@
   "name": "unbracket",
   "version": "1.0.3",
   "author": "Léo Jacquemin @Radioreve <ljayame@gmail.com> (https://ljaya.me)",
+  "description": "Extract substrings between delimiters characters with explicit methods instead of alien regex",
   "license": "MIT",
   "keywords": [
     "unbracket",
